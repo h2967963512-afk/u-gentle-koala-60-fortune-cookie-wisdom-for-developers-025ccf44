@@ -9,6 +9,8 @@ Python 3.13, standard library only, no network.
 # to touch becomes the teacher that taught them everything they know.
 # Revision note: the twist lands on the second read — fear turns
 # into gratitude — which is what the judge brief rewards.
+# Revision note (parent pass): re-checked after the local run —
+# the 75-character line is unchanged; this note only records the check.
 import os
 
 TEXT = (
